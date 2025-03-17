@@ -22,6 +22,6 @@ ol, ul {
     color: #555;
 }
 
-strong, em {
+b, i {
     color: #e74c3c;
 }
